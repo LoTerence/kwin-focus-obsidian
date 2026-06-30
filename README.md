@@ -1,10 +1,11 @@
 # kwin-focus-obsidian
 
-A KDE Kwin script for task switching to the Obsidian window.
+A KDE Kwin script that adds a keyboard shortcut to task switch directly to the [Obsidian](https://obsidian.md/) window.
 
 Behavior:
 - Bring all open Obsidian windows to the top.
 - Make the most recently active Obsidian window the current "active window".
+- Default keyboard shortcut: `Meta+O`
 
 
 ### Deployment Instructions
