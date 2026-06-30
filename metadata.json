@@ -1,7 +1,7 @@
 {
     "KPlugin": {
-        "Name": "kwin-focus-obsidian",
-        "Description": "A KDE Kwin script for task switching to the Obsidian window.",
+        "Name": "FocusObsidian",
+        "Description": "Adds a shortcut to task switch to the Obsidian window(s).",
         "Icon": "preferences-system-windows",
         
         "Authors": [

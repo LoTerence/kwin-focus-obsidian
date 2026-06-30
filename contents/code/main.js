@@ -29,4 +29,9 @@ function focusObsidianWindows() {
   }
 }
 
-focusObsidianWindows();
+registerShortcut(
+  "FocusObsidian",
+  "Task switch to the Obsidian windows",
+  "Meta+O",
+  focusObsidianWindows,
+);
